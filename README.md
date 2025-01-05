@@ -36,5 +36,5 @@ Students will enhance the "Russian Tortoises" website by learning to use additio
    - Use the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to ensure your CSS is valid.
 
 8. **Submit Your Work**
-    Once you've confirmed that styling looks good, submit the following:
+   - Once you've confirmed that styling looks good, submit the following:
    - Submit your `styles.css` file inside of Google Classroom.
