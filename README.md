@@ -25,20 +25,6 @@ Students will enhance the "Russian Tortoises" website by learning to use additio
    - The `<a>` rule set should have a text decoration that will make all links have an underline.  
    - Retain the hover effect from the previous assignment.
 
-   Example:
-   ```css
-   /* Link Styles */
-   a {
-       color: #008080;
-       font-style: normal;
-       text-decoration: underline;
-   }
-
-   a:hover {
-       color: #006400;
-   }
-   ```
-
 6. **Style the Aside Section with Small Caps**  
    - Find the `/* Aside Styles */` comment.  
    - For text inside the `<aside>` rule set, use the font varient property to have a value of small-caps to enhance its appearance.
